@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.git
+__pycache__
+*.pyc
+.vscode
+.idea
+docs/
+*.md
+neo4j_schema.cypher
+test_*.py
